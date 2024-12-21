@@ -1,0 +1,14 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+#goa{
+    text-align: center;
+    font-size: 50px;
+    border: solid;
+    border-radius: 60px;
+    color: aquamarine;
+}
+img{
+    width: 500px;
+}
